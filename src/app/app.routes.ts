@@ -12,5 +12,3 @@ export const routes: Routes = [
         component: DetailsComponent,
     },
 ];
-
-// export const routes: Routes = [];

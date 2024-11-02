@@ -24,6 +24,4 @@ export class HousingService {
       `Homes application received: firstName: ${firstName}, lastName: ${lastName}, email: ${email}.`
     );
   }
-
-  // readonly baseUrl = 'https://angular.dev/assets/images/tutorials/common';
 }
